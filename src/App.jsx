@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 const BD_CITIES = [
-  { id: 1, name: "Dhaka", division: "Dhaka", population: "22.4M", status: "Capital" },
+  { id: 1, name: "Dhakaaa", division: "Dhaka", population: "22.4M", status: "Capital" },
   { id: 2, name: "Chittagong", division: "Chittagong", population: "5.2M", status: "Port City" },
   { id: 3, name: "Sylhet", division: "Sylhet", population: "0.9M", status: "Tea Capital" },
   { id: 4, name: "Khulna", division: "Khulna", population: "1.0M", status: "Industrial" },
